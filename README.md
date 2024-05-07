@@ -1,4 +1,7 @@
-# stop_watch_youtube_ver2# Result
+# stop_watch_youtube_ver2
+
+- 버젼1 이게 완성도 높다. ㅋㅋ
+  - https://github.com/YoungHaKim7/stop_watch_youtube
 
 - 100초 만 된다. 어렵네 ㅋㅋㅋ
 
